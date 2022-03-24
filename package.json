@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@azure-rest/purview-catalog": "^1.0.0-beta.3",
+    "@azure-rest/purview-scanning": "^1.0.0-beta.2",
     "@azure/identity": "^2.0.4"
   },
   "devDependencies": {
